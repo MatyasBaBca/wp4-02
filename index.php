@@ -25,7 +25,7 @@ $pc2->RAM = 'HyperX 16 GB';
 $pc2->SSD = 'Kingston A400 250GB';
 $pc2->case = 'Zalman S3';
 $pc2->MB = 'Strix ASUS GT23 ';
-$pc2->mouse = 'A2tech Bloody v4';3
+$pc2->mouse = 'A2tech Bloody v4';
 var_dump($pc1);
 var_dump($pc2);
 
